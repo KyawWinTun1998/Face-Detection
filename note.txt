@@ -1,0 +1,8 @@
+// FaceApi Refrence
+
+https://github.com/justadudewhohacks/face-api.js
+
+
+1. script.js >> webcam accept
+
+doc (getuserMedia.js မှာဖတ်နိုင်)
